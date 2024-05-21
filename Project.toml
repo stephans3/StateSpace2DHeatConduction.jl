@@ -1,0 +1,7 @@
+name = "StateSpace2DHeatConduction"
+uuid = "d18ca5c0-2dd2-455f-9668-94895f2e00e2"
+authors = ["Stephan Scholz"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
